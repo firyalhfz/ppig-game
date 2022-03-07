@@ -166,3 +166,7 @@ main {
   color: #c7365f;
 }
 
+/* todo 1 */
+.hidden{
+  display: none
+}
