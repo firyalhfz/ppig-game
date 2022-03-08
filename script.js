@@ -86,7 +86,8 @@ btnHold.addEventListener('click', function () {
 
     //2. Check if player's score is >= 100
     if (scores[activePlayer] >= 100) {
-      //todo5 playing or not
+
+      //playing or not
       playing = false;
       diceEl.classList.add('hidden');
 
